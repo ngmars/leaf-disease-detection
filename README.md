@@ -16,8 +16,21 @@ With the crop diseases being correctly identified minimum 95% of the time, we ca
 </p>
 <br/><br/>
 <h1 align="center">GUI </h1>
+<br/><br/>
 <p align="center">
   <img src="/GUI1.png"  title="hover text">
   <img src="/GUI2.png"  title="hover text">
 </p>
 
+<h1> TO RUN CODE </h1>
+<p style="font-size:24px">
+<ul>
+  <li>STEP 1:open terminal run $ python3 PRED_API.py </li>
+  <li>STEP 2: cd aiproject</li>
+  <li>STEP 3: npm i</li>
+  <li>STEP 4: npm start, this will start the react based front end</li>
+  <li>The saved weights are store best-model.h5</li>
+  <li>Model.ipynb has the model </li>
+</ul>
+
+</p>
