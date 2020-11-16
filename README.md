@@ -25,13 +25,13 @@ With the crop diseases being correctly identified minimum 95% of the time, we ca
 <h1> TO RUN CODE </h1>
 <p style="font-size:24px">
 <dl>
-  <dt> OPEN TERMINAL AND </dt>
-  <dt>STEP 1: python3 PRED_API.py </dt>
-  <dt>STEP 2: cd aiproject</dt>
-  <dt>STEP 3: npm i</dt>
-  <dt>STEP 4: npm start, this will start the react based front end</dt>
-  <dt>The saved weights are store best-model.h5</dt>
-  <dt>Model.ipynb has the model </dt>
+  <li> OPEN TERMINAL AND </li>
+  <li>STEP 1: python3 PRED_API.py </li>
+  <li>STEP 2: cd aiproject</li>
+  <li>STEP 3: npm i</li>
+  <li>STEP 4: npm start, this will start the react based front end</li>
+  <li>The saved weights are store best-model.h5</li>
+  <li>Model.ipynb has the model </li>
 </dl>
 
 </p>
