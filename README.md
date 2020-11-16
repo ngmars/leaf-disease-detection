@@ -14,3 +14,10 @@ With the crop diseases being correctly identified minimum 95% of the time, we ca
 <p align="center">
   <img src="/ach diag.png"  title="hover text">
 </p>
+<br/><br/>
+<h1 align="center">GUI </h1>
+<p align="center">
+  <img src="/GUI1.png"  title="hover text">
+  <img src="/GUI2.png"  title="hover text">
+</p>
+
